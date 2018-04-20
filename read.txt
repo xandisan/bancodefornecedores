@@ -1,0 +1,10 @@
+Senha de administrador:
+Acesso: Endereço/admin
+Login: Portaldev
+Senha: portaldev
+
+Arquivo para configuração do banco:
+Admin/config/funções.php
+Basta alterar as linhas 3 e 4;
+$caminho = 'http://fornecedores.com';
+$caminhoUpload = 'C:/xampp/htdocs/bancodefornecedores/arquivos';
